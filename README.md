@@ -1,1 +1,2 @@
-# Project-38
+# Trex
+My first t-rex game
